@@ -17,7 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_tower1","order":2,"path":"objects/obj_tower1/obj_tower1.yy",},
     {"name":"obj_enemy","order":1,"path":"objects/obj_enemy/obj_enemy.yy",},
+    {"name":"obj_control_tower","order":3,"path":"objects/obj_control_tower/obj_control_tower.yy",},
+    {"name":"spr_tower","order":3,"path":"sprites/spr_tower/spr_tower.yy",},
     {"name":"spr_enemy0","order":2,"path":"sprites/spr_enemy0/spr_enemy0.yy",},
     {"name":"spr_floor2","order":1,"path":"sprites/spr_floor2/spr_floor2.yy",},
   ],

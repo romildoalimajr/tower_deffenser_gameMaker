@@ -34,10 +34,13 @@
     "IDEVersion": "2023.6.0.89",
   },
   "resources": [
+    {"id":{"name":"obj_tower1","path":"objects/obj_tower1/obj_tower1.yy",},},
     {"id":{"name":"Path0","path":"paths/Path0/Path0.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
+    {"id":{"name":"obj_control_tower","path":"objects/obj_control_tower/obj_control_tower.yy",},},
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
     {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
+    {"id":{"name":"spr_tower","path":"sprites/spr_tower/spr_tower.yy",},},
     {"id":{"name":"spr_enemy0","path":"sprites/spr_enemy0/spr_enemy0.yy",},},
     {"id":{"name":"spr_floor2","path":"sprites/spr_floor2/spr_floor2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
