@@ -3,7 +3,7 @@
 
 path_start(Path0, 2,  path_action_stop, 0);
 
-
+life = 100;
 
 
 

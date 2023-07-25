@@ -4,7 +4,12 @@ with(other)
 {
 	instance_destroy();
 }
-instance_destroy();
 
 
+if(random(100) < 30){
+		life--;
+		if(life <= 0){
+			instance_destroy();
+		}
+	}
 
