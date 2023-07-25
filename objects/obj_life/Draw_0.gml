@@ -1,7 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-tower_holder = -1;
-canPlace = true;
+
+draw_set_color(c_white);
+draw_text(20,20,"Life: " + string(life));
+
 
 
 

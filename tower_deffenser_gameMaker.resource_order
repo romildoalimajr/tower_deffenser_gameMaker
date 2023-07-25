@@ -19,9 +19,11 @@
   "ResourceOrderSettings": [
     {"name":"obj_tower1","order":2,"path":"objects/obj_tower1/obj_tower1.yy",},
     {"name":"obj_bullet","order":4,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"obj_spawner","order":7,"path":"objects/obj_spawner/obj_spawner.yy",},
     {"name":"obj_enemy","order":1,"path":"objects/obj_enemy/obj_enemy.yy",},
     {"name":"obj_control_tower","order":3,"path":"objects/obj_control_tower/obj_control_tower.yy",},
     {"name":"spr_tower1","order":5,"path":"sprites/spr_tower1/spr_tower1.yy",},
+    {"name":"obj_life","order":6,"path":"objects/obj_life/obj_life.yy",},
     {"name":"obj_tower2","order":5,"path":"objects/obj_tower2/obj_tower2.yy",},
     {"name":"spr_tower","order":3,"path":"sprites/spr_tower/spr_tower.yy",},
     {"name":"spt_bullet","order":4,"path":"sprites/spt_bullet/spt_bullet.yy",},
