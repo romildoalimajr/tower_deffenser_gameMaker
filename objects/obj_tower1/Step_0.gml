@@ -7,11 +7,14 @@ if(!isInventory){
 	{
 		var dist = point_distance(other.x, other.y, x, y);
 		if(dist <= 90){
-				show_debug_message("Ataque");
-				instance_destroy();
+				//show_debug_message("Ataque");
+				if(random(100) < 30){
+					var obj = instance_create_depth(other.x, other.y, -1, obj_bullet);
+					obj.enemyRef = self;
+				}
 				break;
 			}else{
-				show_debug_message("Fora de alcance");
+				;;show_debug_message("Fora de alcance");
 			}	
 	}
 }

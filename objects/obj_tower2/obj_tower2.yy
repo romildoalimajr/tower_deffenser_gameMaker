@@ -1,19 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_enemy",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-  ],
+  "name": "obj_tower2",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_tower1",
+    "path": "objects/obj_tower1/obj_tower1.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -30,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_enemy0",
-    "path": "sprites/spr_enemy0/spr_enemy0.yy",
+    "name": "spr_tower1",
+    "path": "sprites/spr_tower1/spr_tower1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
